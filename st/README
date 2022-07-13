@@ -1,0 +1,5 @@
+st 0.8.5
+- scrollback
+- scrollback-mouse
+- scrollback-mouse-altscreen
+- scrollback-mouse-increment
